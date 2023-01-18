@@ -1,0 +1,25 @@
+Page 0
+==========
+dhiuash
+
+
+What would you like to do?
+
+
+1. asuhd
+2. nasjk
+Page 1
+==========
+dhiuash
+
+
+What would you like to do?
+
+
+Page 2
+==========
+dhiuash
+
+
+Sorry, you have lost. Better luck next time!
+

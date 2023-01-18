@@ -1,0 +1,10 @@
+a:aaa
+b:bbb
+c:ccc
+a:a
+b:c
+c:aaa
+C:ccc
+c:ccc
+a:aaa
+a:a

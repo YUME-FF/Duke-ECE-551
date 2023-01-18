@@ -1,0 +1,31 @@
+story-step1 story.txt
+story-step1
+story-step1 story.txt story.txt
+story-step1 step1_01.txt
+story-step1 step1_02.txt
+story-step1 step1_03.txt
+story-step1 step1_04.txt 
+story-step1 step1_05.txt
+story-step1 step1_06.txt
+story-step2 words.txt
+story-step2
+story-step2 words.txt words.txt
+story-step2 step2_01.txt
+story-step2 step2_02.txt
+story-step2 step2_03.txt
+story-step2 step2_04.txt
+story-step3
+story-step3 words.txt story2.txt
+story-step3 words.txt story2.txt words.txt
+story-step3 step3_word_01.txt step3_story_01.txt
+story-step3 words.txt step3_story_02.txt
+story-step3 words.txt step3_story_03.txt
+story-step3 words.txt step3_story_04.txt
+story-step3 words.txt step3_story_05.txt
+story-step4 words.txt story2.txt
+story-step4 -n words.txt story2.txt
+story-step4
+story-step4 words.txt
+story-step4 words.txt words.txt words.txt
+story-step4 -a words.txt story2.txt
+story-step4 -n words.txt step4_story_01.txt

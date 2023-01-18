@@ -1,0 +1,83 @@
+lllll
+
+What would you like to do?
+
+
+1. 0->1
+lllll
+
+What would you like to do?
+
+
+1. 1->2
+lllll
+
+What would you like to do?
+
+
+1. 2->3
+lllll
+
+What would you like to do?
+
+
+1. 3->4
+lllll
+
+What would you like to do?
+
+
+1. 4->5
+2. 4->2
+lllll
+
+What would you like to do?
+
+
+1. 5->8
+2. 5->6
+lllll
+
+What would you like to do?
+
+
+1. 6->3
+2. page0.txt
+lllll
+
+Congratulations! You have won. Hooray!
+
+lllll
+
+What would you like to do?
+
+
+1. 8->9
+lllll
+
+What would you like to do?
+
+
+1. 9->7
+2. 9->10
+lllll
+
+Sorry, you have lost. Better luck next time!
+
+lllll
+
+What would you like to do?
+
+
+1. 11->12
+2. 11->13
+lllll
+
+What would you like to do?
+
+
+1. page0.txt
+lllll
+
+Congratulations! You have won. Hooray!
+

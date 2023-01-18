@@ -1,0 +1,24 @@
+Page 0
+==========
+page0
+
+
+What would you like to do?
+
+
+1. to 1
+2. to 2
+Page 1
+==========
+lose
+
+
+Sorry, you have lost. Better luck next time!
+
+Page 2
+==========
+win
+
+
+Congratulations! You have won. Hooray!
+

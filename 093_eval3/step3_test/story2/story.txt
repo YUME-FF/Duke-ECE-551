@@ -1,0 +1,12 @@
+0@N:page0.txt
+0:1:sda
+1@N:page0.txt
+1:0:ad
+2@W:page0.txt
+3@N:page0.txt
+3:2:asda
+3:4:adasd
+4@N:page0.txt
+4:3:dhiua
+4:5:asda
+5@L:page0.txt

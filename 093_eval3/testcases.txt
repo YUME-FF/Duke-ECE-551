@@ -1,0 +1,11 @@
+cyoa-step1 step1_test/story1
+cyoa-step1
+cyoa-step1 step1_test/story2
+cyoa-step1 step1_test/story3
+cyoa-step1 step1_test/story4
+cyoa-step1 step1_test/story5
+cyoa-step2 step2_test/story1
+cyoa-step2 step2_test/story2
+cyoa-step2 step2_test/story3
+cyoa-step3 step3_test/story1
+cyoa-step3 step3_test/story2

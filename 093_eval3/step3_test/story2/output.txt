@@ -1,0 +1,34 @@
+qasd
+
+What would you like to do?
+
+
+1. sda
+qasd
+
+What would you like to do?
+
+
+1. ad
+qasd
+
+Congratulations! You have won. Hooray!
+
+qasd
+
+What would you like to do?
+
+
+1. asda
+2. adasd
+qasd
+
+What would you like to do?
+
+
+1. dhiua
+2. asda
+qasd
+
+Sorry, you have lost. Better luck next time!
+
